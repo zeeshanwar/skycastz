@@ -5,11 +5,17 @@ A React.js-based Live Weather Application that fetches real-time weather data us
 🚀 Features
 
 ✅ Real-time Weather Updates – Fetches live weather conditions based on user input.
+
 ✅ Hourly & Daily Forecasts – Displays weather forecasts for the next 48 hours and 15 days.
+
 ✅ Dynamic Weather Icons – Icons adjust based on day/night detection using API-provided timestamps.
+
 ✅ Time Zone Synchronization – Ensures weather updates align with the selected location’s time zone.
+
 ✅ Theme Mode Support – Supports dark/light mode, stored in local storage.
+
 ✅ Loading Screen with Quotes – Displays random weather-related quotes while fetching data.
+
 ✅ Optimized API Calls – Caches searched locations to prevent redundant API requests.
 
 📦 Installation
