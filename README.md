@@ -1,4 +1,4 @@
-🌦️ Live Weather App
+🌦️ SkyCastz -  Live Weather App
 
 A React.js-based Live Weather Application that fetches real-time weather data using the Open-Meteo API. The app provides current, hourly, and daily weather forecasts with dynamically updated weather icons, time zone-based updates, and theme customization.
 
@@ -67,19 +67,5 @@ Stores preference in LocalStorage.
 🚀 Improve UI Animations for a smoother experience.
 🚀 Expand Weather Insights – Air quality, UV index warnings, and more.
 
-🤝 Contributing
-
-1️⃣ Fork the repository.
-2️⃣ Create a new branch (feature-newfeature).
-3️⃣ Commit changes (git commit -m "Added new feature").
-4️⃣ Push to your branch (git push origin feature-newfeature).
-5️⃣ Open a Pull Request.
-
-📜 License
-
-This project is open-source under the MIT License.
-
 🌟 Show Some Love
-
 If you find this project helpful, please ⭐ star the repository and contribute! 😃
-
